@@ -70,5 +70,19 @@ PyWake 0.x.x
 ```
 Here shows your PyWake edition.
 
+# Third
+
+Now, try to run some example. You can find it on [PyWake Official Git](https://github.com/DTUWindEnergy/PyWake)
+
+1. Copy a code from that link.
+2. Open a text software whatever you like, and paste it in the Text Eidtor. Save as **.py** file.
+3. Find the folder you put the file in. Run code below in ternimal:
+```
+python YOURFILENAME.py
+```
+#### Then, you can get result.
+
+
+
 
 
