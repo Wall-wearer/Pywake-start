@@ -1,9 +1,9 @@
 # Pywake-start 
-It's just talk about how to install Pywake and check if it is successfully donload as a starter.
+It's just talking about how to install Pywake and check if it is successfully downloaded as a starter. And share my experience while doing my PyWake project.
 
-#### *Note:* This is my experience as a novice installing Pywake and the problems I encountered. From the beginning when I didn't even understand the basic concepts of python environment and such, to the final successful installation of Pywake, just as a souvenir and to help other beginners similar to me who started from scratch. 
+#### *Note:* This is my experience as a novice installing Pywake and the problems I encountered. From the beginning when I didn't even understand the basic concepts of Python environment and such, to the final successful installation of Pywake, just as a souvenir and to help other beginners similar to me who started from scratch. 
 
-#### Note: It is 2023 Feb. 12, I just successfully download the Pywake and run some Examples, and in the further steps like adjust the parameters will be discuss in the future.
+#### Note: It is 2023 Feb. 12, I just successfully download the Pywake and run some Examples, and in further steps like adjusting the parameters will be discussed in the future.
 
 # First
 
@@ -72,15 +72,16 @@ Here shows your PyWake edition.
 
 # Third
 
-Now, try to run some example. You can find it on [PyWake Official Git](https://github.com/DTUWindEnergy/PyWake)
+Now, try to run some examples. You can find it on [PyWake Official Git](https://github.com/DTUWindEnergy/PyWake)
 
 1. Copy a code from that link.
-2. Open a text software whatever you like, and paste it in the Text Eidtor. Save as **.py** file.
-3. Find the folder you put the file in. Run code below in ternimal:
+2. Open a text software whatever you like, and paste it into the Text Editor. Save as **.py** file.
+3. Find the folder you put the file in. Run the code below in terminal:
 ```
 python YOURFILENAME.py
 ```
 #### Then, you can get result.
+
 
 
 
